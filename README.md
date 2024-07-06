@@ -1,1 +1,1 @@
-# DotnetCoreAPIEFCoreCosmosDB
+# .NET API to demonstrate accessing Azure Cosmos DB using EF Core
